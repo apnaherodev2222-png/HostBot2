@@ -28,11 +28,11 @@ from telegram.error import BadRequest
 from script_scanner import scan_file
 
 # ================== CONFIG ==================
-BOT_TOKEN           = "8676256487:AAH9xNtc1jOt0EfPxSZxb_uqWCN-DWEvHgM"
+BOT_TOKEN           = "8611245569:AAFr-iERVdlI5VNf7T1uyUDaQruRkI47rQc"
 APPROVAL_BOT_TOKEN  = "8529511149:AAFCeSlw6nLTaD2U2Q0Nt6TfOnxs3YfF5YE"
 OWNER_ID            = 5628671567
 ADMIN_IDS           = [5628671567]
-SUPPORT_CHANNEL     = "https://t.me/Dev_Null_X_NODE_S"
+SUPPORT_CHANNEL     = "https://t.me/pdf_making_hub"
 HOME_VIDEO_URL      = "https://files.catbox.moe/m4sadt.mp4"
 
 HOSTED_BOTS_DIR     = Path("/root/hosted_bots")
