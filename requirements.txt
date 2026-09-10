@@ -5,3 +5,6 @@ Flask
 aiohttp
 aiogram
 nest_asyncio
+aiosqlite
+python-dotenv
+
