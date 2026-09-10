@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+requests
+psutil
+Flask
+aiohttp
+aiogram
+nest_asyncio
